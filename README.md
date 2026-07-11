@@ -45,7 +45,7 @@ Meu Nome é Isaac Nicolas Barreto Quadros,sou estudante de Desenvolvimento de Si
     align="left" 
     alt="GO"
     title="GOLANG" 
-    width="40px" 
+    width="60px" 
     style="padding-Left: 80px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 
