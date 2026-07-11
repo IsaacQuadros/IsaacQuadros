@@ -53,7 +53,7 @@ Meu Nome é Isaac Nicolas Barreto Quadros,sou estudante de Desenvolvimento de Si
 <br/>
 <br/>
 
-### 📚 Currently Learning
+
 
 <br/>
 
