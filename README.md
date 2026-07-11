@@ -12,7 +12,7 @@
 🇧🇷 Portuguese (Native)
 
 
-Meu Nome é Isaac Nicolas Barreto Quadros,sou estudante de Desenvolvimento de Sistemas em um curso técnico ligado ao ensino médio.
+Meu Nome é Isaac Nicolas Barreto Quadros,sou estudante de Desenvolvimento de Sistemas em um curso técnico ligado ao ensino médio. Nasci em Ananindeua-PA e 
 
 
 
@@ -45,7 +45,7 @@ Meu Nome é Isaac Nicolas Barreto Quadros,sou estudante de Desenvolvimento de Si
     align="left" 
     alt="GO"
     title="GOLANG" 
-    width="60px" 
+    width="40px" 
     style="padding-Left: 80px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 
@@ -58,6 +58,8 @@ Meu Nome é Isaac Nicolas Barreto Quadros,sou estudante de Desenvolvimento de Si
 <br/>
 
 
+
+    
 
 
 
